@@ -4,4 +4,6 @@ hi..!! it is test-1 file .
 using namespace std;
 int main(){
 cout<<"hello world"<<endl;
+int a=10;
+int b=20;
 }
